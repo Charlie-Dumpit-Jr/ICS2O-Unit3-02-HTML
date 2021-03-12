@@ -5,19 +5,19 @@ font-size: 20px;
 border-style: solid;
   border-color: red;
 }
-#Countries {
+#countries {
 color: orangered;
 font-family: arial;
 font-size: 24px;
 border-style: solid;
   border-color: midnightblue;
 }
-.GDP {
+.gdp {
 color: yellow;
 font-family: arial;
 font-size: 28px;
 }
-.Country {
+.country {
 color: purple;
 font-family: monospace;
 font-size: 24px;
